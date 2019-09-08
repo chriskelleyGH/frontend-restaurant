@@ -20,9 +20,9 @@ For the **Restaurant Reviews Application** project, I converted a static webpage
 
 ## Dependencies
 
-Python 2 or Python 3
-[leafletjs](https://leafletjs.com/)
-[Mapbox](https://www.mapbox.com/)
+1. Python 2 or Python 3
+2. [leafletjs](https://leafletjs.com/)
+3. [Mapbox](https://www.mapbox.com/)
 
 ## Notes
 
